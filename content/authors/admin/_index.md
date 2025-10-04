@@ -58,7 +58,7 @@ interests:
   - Intelligent Characterization of Waste Properties
 
 education:
-  - area: M.S. in Civil Engineering (Specialization in Intelligent Technologies)
+  - area: M.S. in Civil Engineering
     institution: Shenzhen University (SZU)
     date_start: 2022-09-01
     date_end: 2025-06-30
@@ -67,14 +67,14 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+  # - area: MS Computer Science
+  #   institution: Carnegie Mellon University
+  #   date_start: 2013-09-01
+  #   date_end: 2015-05-31
+  #   summary: |
+  #     GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
+  #     Specialized in machine learning and robotics.
   - area: B.S. in Civil Engineering
     institution: SZU
     date_start: 2018-09-01
@@ -170,4 +170,4 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Bowen Liao is a Research Assistant in Civil Engineering at Shenzhen University, having completed his Bachelor's and Master's degrees at the same institution, graduating in 2025. He is currently awaiting his visa to begin his PhD at Monash University in Australia. Bowen specializes in integrating intelligent technologies for sustainable solutions in construction. He leads research projects that use advanced sensing technologies, such as 3D point cloud technology and Near-Infrared spectroscopy, to enhance resource property prediction and waste recovery in urban construction. His work has been presented in prominent academic forums, with contributions to patents and software copyrights. Bowen is passionate about leveraging AI and machine learning to tackle real-world engineering challenges while promoting sustainable development.
+Bowen Liao is a Research Assistant in Civil Engineering at Shenzhen University, where he completed his Bachelor's and Master's degrees in 2025. Currently awaiting his PhD visa for Monash University, Australia, Bowen specializes in integrating intelligent technologies for sustainable construction solutions. He leads research in advanced sensing technologies like 3D point cloud and Near-Infrared spectroscopy for resource prediction and waste recovery. His work has been featured in academic forums, including 'Waste Management' Journal, and he has contributed to patents and software copyrights.
