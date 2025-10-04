@@ -52,10 +52,10 @@ profiles:
 
 interests:
   - Waste Resource Recovery
-  - Advanced Sensing Technologies (3D Scanning Technology, Digital Imaging, NIR, etc.)
-  - Point Cloud Segmentation
   - Deep Learning
   - Intelligent Characterization of Waste Properties
+  - Advanced Sensing Technologies (3D Scanning Technology, Digital Imaging, NIR, etc.)
+
 
 education:
   - area: M.S. in Civil Engineering
